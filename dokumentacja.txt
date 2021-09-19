@@ -1,7 +1,7 @@
 1. Pierwszy nagłówek
 
 2. Drugi nagłówek
-
+Tekst drugiego naglowka
 3. Trzeci nagłówek
 
 
